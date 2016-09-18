@@ -10,10 +10,6 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Hide autogenned assemblyinfo.
-
-Client/Properties/AssemblyInfo.cs
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
