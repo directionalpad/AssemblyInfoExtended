@@ -1,11 +1,15 @@
 # AssemblyInfoExtended
 
+[![NuGet](https://img.shields.io/nuget/v/AssemblyInfoExtended.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/AssemblyInfoExtended)
+
+
+
 AssemblyInfoExtended is a .NET library that provdes additional attributes for use in your applications AssemblyInfo.cs.
 
 
 ### Installation
 
-You can clone the repository and compile it locally for use in your project or add it as a git submodule to your existing project.
+A NuGet package is available. To install it simply use `Install-Package AssemblyInfoExtended` from the NuGet console. In addition you can clone the repository and compile it locally for use in your project or add it as a git submodule to your existing project.
 
 ### Usage
 
