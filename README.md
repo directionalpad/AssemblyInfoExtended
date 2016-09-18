@@ -12,7 +12,7 @@ AssemblyInfoExtended is built against .NET 4.6.1 and requires the .NET Framework
 
 ### Installation
 
-A NuGet package is available. To install it simply use `Install-Package AssemblyInfoExtended` from the NuGet console. In addition you can clone the repository and compile it locally for use in your project or add it as a git submodule to your existing project.
+A NuGet package is available. To install it simply use `Install-Package AssemblyInfoExtended` from the NuGet console. If you do not wish to use NuGet then you can clone the repository and compile it locally for use in your project or add it as a git submodule to your existing project.
 
 ### Usage
 
