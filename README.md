@@ -18,7 +18,7 @@ Currently AssemblyInfoExtended provides the following additional attributes:
 Provides a field that allows you to insert the full or partial commit hash that your application is being built from.
 
 Example
-```[assembly: AssemblyCommitHash("a3b6d0")]```
+```[assembly: AssemblyCommitHash("a3b6d0d7")]```
 
 
 ##### AssemblyInternalVersion
