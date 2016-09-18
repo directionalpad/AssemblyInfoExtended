@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Bailey Dickens</authors>
+    <owners>Bailey Dickens</owners>
+    <licenseUrl>https://github.com/directionalpad/AssemblyInfoExtended/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/directionalpad/AssemblyInfoExtended</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes> </releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>metadata assemblyinfo versioning version</tags>
+  </metadata>
+</package>
