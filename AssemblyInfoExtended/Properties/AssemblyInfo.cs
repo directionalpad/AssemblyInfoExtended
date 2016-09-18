@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AssemblyInfoExtended")]
-[assembly: AssemblyDescription("Extends the available assembly information classes in the System.Reflection namespace.")]
+[assembly: AssemblyDescription("AssemblyInfoExtended is a .NET library that provdes additional attributes for use in your applications AssemblyInfo.cs.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AssemblyInfoExtended")]
