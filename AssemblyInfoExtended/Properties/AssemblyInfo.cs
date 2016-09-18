@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AssemblyInfoExtended")]
 [assembly: AssemblyDescription("AssemblyInfoExtended is a .NET library that provdes additional attributes for use in your applications AssemblyInfo.cs.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Bailey Dickens")]
 [assembly: AssemblyProduct("AssemblyInfoExtended")]
 [assembly: AssemblyCopyright("Copyright © 2016 Bailey Dickens")]
 [assembly: AssemblyTrademark("")]
