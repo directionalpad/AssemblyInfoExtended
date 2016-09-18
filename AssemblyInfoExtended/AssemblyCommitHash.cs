@@ -5,7 +5,8 @@ namespace System.Reflection
     /// <summary>
     /// Defines a commit hash attribute for the assembly manifest.
     /// </summary>
-    public class AssemblyCommitHash
+    [AttributeUsage(AttributeTargets.Assembly)]
+    public class AssemblyCommitHash : Attribute
     {
         public string _hash;
 

@@ -5,7 +5,8 @@ namespace System.Reflection
     /// <summary>
     /// Defines additional version information for the assembly manifest.
     /// </summary>
-    public class AssemblyInternalVersion
+    [AttributeUsage(AttributeTargets.Assembly)]
+    public class AssemblyInternalVersion : Attribute
     {
         public string _version;
 
