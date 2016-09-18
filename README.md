@@ -6,6 +6,9 @@
 
 AssemblyInfoExtended is a .NET library that provdes additional attributes for use in your applications AssemblyInfo.cs.
 
+### Requirements
+
+AssemblyInfoExtended is built against .NET 4.6.1 and requires the .NET Framework version 4.6.1 or later.
 
 ### Installation
 
